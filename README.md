@@ -1,6 +1,4 @@
-
-==================
-     LBN-Mod
+LBN-Mod
 ==================
 
 URL:bbs.androm.org
