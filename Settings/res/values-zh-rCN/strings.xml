@@ -1603,7 +1603,7 @@ PIN 可能不正确。"</string>
     <string name="themes_settings_title">主题选择</string>
     <string name="launcher_settings_title">启动器</string>
     <string name="advanced_settings_title">配置</string>
-    <string name="about_cna_settings_title">关于 CN(A)</string>
+    <string name="about_cna_settings_title">关于 LBN-X</string>
     <string name="general_ui_settings_title">@string/sound_category_sound_title</string>
     <string name="power_menu_title">电源菜单选项</string>
     <string name="status_bar_title">状态栏</string>
@@ -2461,4 +2461,23 @@ PIN 可能不正确。"</string>
     <string name="changelog_error">无法读取变更日志</string>
     <string name="changelog_unknown">未知</string>
     <string name="changelog_version">版本</string>
+	<string name="devs">开发者</string>
+    <string name="links">官方链接</string>
+    <string name="contributors">鸣谢</string>
+    <string name="cna_website_title">LBN-X 合作论坛</string>
+    <string name="cna_source_title">LBN-X 汉化文本下载</string>
+    <string name="cna_review_title">LBN-X 官方博客</string>
+    <string name="cna_youtube_title">LBN-X 作者微博</string>
+    <string name="cna_website_summary">"bbs.androm.org
+LBN-X 合作论坛"</string>
+    <string name="cna_review_summary">"blog.sina.com.cn/u/1334172695
+LBN-X 官方博客"</string>
+    <string name="cna_source_summary">汉化文本地址：https://github.com/boogaloo-bino/LBN-Mod</string>
+    <string name="cna_youtube_summary">"NS作者：Nian GN作者：Bino 优化：Lucifer
+你可以询问关于你的疑惑"</string>
+    <string name="about_cna">关于LBN-X</string>
+    <string name="about_cna_summary">@null</string>
+    <string name="donate_cna">https://me.alipay.com/nian0114</string>
+    <string name="donate_cyanogenmod">http://forum.cyanogenmod.com/donate</string>
+    <string name="donate_aokp">http://aokp.co/</string>
 </resources>
