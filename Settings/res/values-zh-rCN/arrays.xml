@@ -59,20 +59,6 @@
         <item>高</item>
         <item>很高</item>
     </string-array>
-    <string-array name="tts_demo_strings">
-        <item>This is an example of speech synthesis in English.</item>
-        <item>Voici un échantillon de synthèse vocale en français.</item>
-        <item>Dies ist ein Beispiel für Sprachsynthese in Deutsch.</item>
-        <item>Questo è un esempio di sintesi vocale in italiano.</item>
-        <item>Este es un ejemplo de síntesis de voz en español.</item>
-    </string-array>
-    <string-array name="tts_demo_string_langs">
-        <item>eng</item>
-        <item>fra</item>
-        <item>deu</item>
-        <item>ita</item>
-        <item>spa</item>
-    </string-array>
     <string-array name="wifi_status">
         <item></item>
         <item>正在扫描...</item>
@@ -361,6 +347,7 @@
         <item>文字居中图标</item>
         <item>月型电量</item>
         <item>隐藏</item>
+	</string-array>
     <string-array name="clock_style_entries">
         <item>居右</item>
         <item>居中</item>
@@ -375,6 +362,7 @@
         <item>不显示</item>
         <item>小</item>
         <item>正常</item>
+	</string-array>
     <string-array name="entries_fast_up_explain">
         <item>移除</item>
         <item>HSUPA 禁用 (封顶)</item>
@@ -390,6 +378,7 @@
     <string-array name="battery_bar_style_entries">
         <item>正常</item>
         <item>中心镜像</item>
+	</string-array>
     <string-array name="pref_navigation_menu_entries">
         <item>居右</item>
         <item>居左</item>
@@ -465,6 +454,7 @@
     <string-array name="entries_status_bar_am_pm">
         <item>正常</item>
         <item>小</item>
+	</string-array>
     <string-array name="lockscreen_widgets_entries">
         <item>一-五</item>
         <item>一-五 居中</item>
@@ -480,6 +470,7 @@
         <item>显示图案</item>
         <item>显示文字</item>
         <item>显示文字+dBm</item>
+	</string-array>
     <string-array name="entries_status_bar_battery">
         <item>图标 (默认)</item>
         <item>百分比</item>
