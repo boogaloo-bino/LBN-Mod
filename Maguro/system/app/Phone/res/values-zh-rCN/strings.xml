@@ -1607,8 +1607,8 @@ PIN 可能不正确。"</string>
     <string name="general_ui_settings_title">@string/sound_category_sound_title</string>
     <string name="power_menu_title">电源菜单选项</string>
     <string name="status_bar_title">状态栏</string>
-    <string name="notification_drawer_title">CM式开关</string>
-    <string name="notification_drawer_toggles_title">AOKP式开关</string>
+    <string name="notification_drawer_title">通知栏</string>
+    <string name="notification_drawer_toggles_title">AOKP开关</string>
     <string name="navigation_bar_title">虚拟键</string>
     <string name="interface_navring_settings">导航环</string>
     <string name="hardware_keys_title">物理按键</string>
@@ -1846,7 +1846,7 @@ PIN 可能不正确。"</string>
     <string name="hardware_keys_action_search">搜索助手</string>
     <string name="hardware_keys_action_voice_search">语音搜索</string>
     <string name="hardware_keys_action_in_app_search">程序内搜索</string>
-    <string name="lockscreen_style_options_title">锁屏风格</string>
+    <string name="lockscreen_style_options_title">Lock screen style</string>
     <string name="lockscreen_custom_background_title">背景</string>
     <string name="lockscreen_custom_background_dialog_title">选择颜色</string>
     <string name="lockscreen_background_result_successful">背景已改变</string>
@@ -1854,8 +1854,8 @@ PIN 可能不正确。"</string>
     <string name="lockscreen_background_color_fill">颜色填充</string>
     <string name="lockscreen_background_custom_image">自定义图片</string>
     <string name="lockscreen_background_default_wallpaper">默认墙纸</string>
-    <string name="lockscreen_widgets_title">目标和部件对齐</string>
-    <string name="lockscreen_widgets_summary">锁屏界面的目标和部件对齐</string>
+    <string name="lockscreen_widgets_title">Targets &amp; Widgets alignment</string>
+    <string name="lockscreen_widgets_summary">Lock screen targets and widgets alignment</string>
     <string name="lockscreen_text_color_title">锁屏上的文字颜色</string>
     <string name="lockscreen_interface_options_title">锁屏界面</string>
     <string name="lockscreen_battery_status_title">电池状态</string>
