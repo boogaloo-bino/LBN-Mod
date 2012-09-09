@@ -10,10 +10,7 @@
     </header>
     <header android:icon="@drawable/empty_icon" android:id="@id/wireless_settings" android:title="@string/radio_controls_title" android:fragment="com.android.settings.WirelessSettings" android:breadCrumbTitle="@string/wireless_networks_settings_title" />
     <header android:title="@string/header_category_rom_settings" />
-    <header android:icon="@drawable/ic_launcher_cna" android:id="@id/launcher_settings" android:title="@string/launcher_settings_title" />
     <header android:icon="@drawable/ic_settings_cna" android:id="@id/interface_settings" android:title="@string/interface_settings_title" android:fragment="com.android.settings.cnd.InterfaceSettings" />
-    <header android:icon="@drawable/ic_settings_themes" android:id="@id/themes_settings" android:title="@string/themes_settings_title">
-        <intent android:targetPackage="com.tmobile.themechooser" android:action="android.intent.action.MAIN" android:targetClass="com.tmobile.themechooser.ThemeChooser" />
     </header>
     <header android:title="@string/header_category_device" />
     <header android:icon="@drawable/ic_settings_sound" android:id="@id/sound_settings" android:title="@string/sound_settings" android:fragment="com.android.settings.SoundSettings" />
