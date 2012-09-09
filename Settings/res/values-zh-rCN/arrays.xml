@@ -488,4 +488,5 @@
     <string-array name="wifi_signal_style_entries">
         <item>显示图形</item>
         <item>显示文字</item>
+	</string-array>
 </resources>
